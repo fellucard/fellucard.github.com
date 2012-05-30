@@ -4,7 +4,7 @@
   <title><![CDATA[DON DON DON]]></title>
   <link href="http://fellucard.github.com/atom.xml" rel="self"/>
   <link href="http://fellucard.github.com/"/>
-  <updated>2012-05-30T08:14:16+02:00</updated>
+  <updated>2012-05-30T09:27:01+02:00</updated>
   <id>http://fellucard.github.com/</id>
   <author>
     <name><![CDATA[Fellucard]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://fellucard.github.com/blog/2012/05/30/hello-world/"/>
+    <updated>2012-05-30T08:59:00+02:00</updated>
+    <id>http://fellucard.github.com/blog/2012/05/30/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello World</p>
+]]></content>
+  </entry>
   
 </feed>
